@@ -1,4 +1,3 @@
-# Telecom-Churn-Analysis_EDA
 ## Churn-Analysis
 # Introduction:
 This repository provides an overview of the Churn Analysis project conducted using Python. Customer churn refers to the phenomenon where customers stop using a company's services or products. Analyzing customer churn is essential for businesses to understand and mitigate customer attrition.
